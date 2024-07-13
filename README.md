@@ -1,0 +1,1 @@
+# Types-of-Activation-Functions-sigmoid-tanh-relu-on-MNIST-DATASET
